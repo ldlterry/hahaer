@@ -1,2 +1,2 @@
 <?php
-	ehco 'my name is terry!';
+require "./vendor/autoload.php";
